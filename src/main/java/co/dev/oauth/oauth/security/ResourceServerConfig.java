@@ -21,9 +21,9 @@ import org.springframework.web.filter.CorsFilter;
 
 import java.util.Arrays;
 
-@RefreshScope
-@Configuration
-@EnableResourceServer
+//@RefreshScope
+//@Configuration
+//@EnableResourceServer
 public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 
 
